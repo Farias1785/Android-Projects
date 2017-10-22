@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro Projeto</string>
+    <string name="Botao_Salvar">Salvar Arquivo</string>
+    <string name="Srint_Titulos">Titulos</string>
+</resources>

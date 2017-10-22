@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gasolina ou alcool</string>
+    <string name="texto_botao_verificar">Verificar</string>
+    <string name="precoalcool">Preço alcool</string>
+    <string name="precogasolina">Preço Gasolina</string>
+    <string name="resultado" />
+</resources>
